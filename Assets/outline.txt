@@ -1,0 +1,11 @@
+
+1. make hooks equipable - done
+2. add bait - done
+3. make bait equipable - done
+4. make bait work with fish - done
+5. add settings page - done
+6. add save button / auto saving
+7. finish level 1
+8. add sounds
+9. add tutorial level
+10. add page to change between levels
